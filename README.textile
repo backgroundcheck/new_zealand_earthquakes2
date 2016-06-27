@@ -1,0 +1,7 @@
+This data is sourced from "GNS Science":http://www.gns.cri.nz and its "GeoNet":http://www.geonet.org.nz programme. The data includes earthquakes, sensor readings and reports from people about how they experienced the quake.
+
+GeoNet's data is available for use free of charge. "GNS Science does assert some restrictions though":http://www.geonet.org.nz/resources/data-policy.html:
+
+# Users are requested to acknowledge the GeoNet project sponsors as the source of the data or images. (Suggested text: We acknowledge the New Zealand GeoNet project and its sponsors EQC, GNS Science and LINZ, for providing data/images used in this study.)
+# The GeoNet project sponsors accept no liability for any loss or damage, direct or indirect, resulting from the use of the data or images provided.
+# The GeoNet project sponsors do not make any representation in respect of the information's accuracy, completeness or fitness for any particular purpose.
